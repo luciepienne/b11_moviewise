@@ -1,6 +1,6 @@
 # b11_moviewise
 Recommandation model with versionning via MLflow 
-
+```
 project/
 │
 ├── img/
@@ -29,3 +29,5 @@ project/
 ├── .gitignore
 ├── main.ipynb    # Main notebook
 └── README.md
+
+```
